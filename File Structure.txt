@@ -1,0 +1,10 @@
+fuzzy_gender_classification/
+│
+├── main.py                # Main script to run the project
+├── preprocess.py          # Functions for image preprocessing
+├── feature_extraction.py  # Functions for feature extraction
+├── fuzzy_logic.py         # Functions for fuzzy logic operations
+├── utils.py               # Utility functions
+├── example_image.jpg      # Example input image
+├── fuzzy_gender_model.pkl # Saved fuzzy gender classification model
+└── README.md              # Project documentation

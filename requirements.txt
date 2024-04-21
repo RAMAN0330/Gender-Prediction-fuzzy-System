@@ -1,0 +1,4 @@
+Python 3.x
+scikit-fuzzy
+scikit-image
+matplotlib
